@@ -47,7 +47,7 @@ pip install pillow requests
 3. Execute o script:
 
 ```bash
-python detectar_motos.py
+python motix.py
 ```
 
 4. Será gerado um arquivo `motos_com_slots.jpg` com a imagem anotada.
